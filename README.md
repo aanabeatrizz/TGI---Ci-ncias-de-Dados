@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Universidade Cruzeiro do Sul;
 # TGI;
 # Alunos: Ana Beatriz da Silva Souza RGM: 22931023 / Pedro Henrique da Silva Souza RGM:23287306
@@ -15,3 +16,6 @@
 - Preparação dos Dados (seleção de *features*)
 - Criação do Modelo de *Machine Learning* (*Baseline*, *Regressão Linear*, *Decision Tree*, *Random Forest*, Avaliação de Métricas)
 - Colocando em Produção (streamlit)
+=======
+# TGI---Ci-ncias-de-Dados
+>>>>>>> 805c55adc86ab7814a120d490d2304296648bad7
