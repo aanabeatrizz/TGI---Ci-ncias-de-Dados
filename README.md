@@ -17,5 +17,5 @@
 - Criação do Modelo de *Machine Learning* (*Baseline*, *Regressão Linear*, *Decision Tree*, *Random Forest*, Avaliação de Métricas)
 - Colocando em Produção (streamlit)
 =======
-# TGI---Ci-ncias-de-Dados
+# TGI-Cincias-de-Dados
 >>>>>>> 805c55adc86ab7814a120d490d2304296648bad7
