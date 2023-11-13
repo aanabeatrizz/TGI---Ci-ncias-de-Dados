@@ -27,7 +27,7 @@ data = get_data()
 model = train_model()
 
 #Logo 
-logo = Image.open('./1.png')
+logo = Image.open('./logo.png')
 st.image(logo, width=200)
 
 # título
