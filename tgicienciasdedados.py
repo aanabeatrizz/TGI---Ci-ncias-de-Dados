@@ -50,6 +50,10 @@ f.update_xaxes(title="Valor Médio")
 f.update_yaxes(title="Total Imóveis")
 st.plotly_chart(f)
 
+# Rodapé
+st.caption("Universidade Cruzeiro do Sul.")
+st.caption("TGI - Trabalho de Graduação Interdisciplinar.")
+st.caption("Alunos: Ana Beatriz da Silva Souza / Pedro Henrique da Silva Souza.")
 
 st.sidebar.subheader("Defina os atributos do imóvel para predição")
 
