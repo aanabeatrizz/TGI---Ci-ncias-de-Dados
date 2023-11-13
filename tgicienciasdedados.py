@@ -34,7 +34,7 @@ st.image(logo, width=200)
 st.title("The Data Squad - Prevendo Valores de Imóveis")
 
 # subtítulo
-st.markdown("Este é um aplicativo utilizado para exibir a solução de Machine Learning para o problema de predição de valores de imóveis de Boston.")
+st.markdown("Este é um site utilizado para exibir a solução de Machine Learning para o problema de predição de valores de imóveis de Boston.")
 
 st.subheader("Distribuição de imóveis por preço")
 
